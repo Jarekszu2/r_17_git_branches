@@ -14,5 +14,7 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println("Liczba linii w pliku: " + counter);
+
+        System.out.println("Linia do usunięcia.");
     }
 }
