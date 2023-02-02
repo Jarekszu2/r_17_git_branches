@@ -1,0 +1,16 @@
+Car(name=Audi, age=2007)
+Car(name=Fiat, age=2017)
+Car(name=Audi, age=2007)
+Car(name=Fiat, age=2017)
+Car{
+name='Audi'
+, age=2007}
+Car{
+name='Fiat'
+, age=2017}
+Car{
+name='Audi'
+, age=2007}
+Car{
+name='Fiat'
+, age=2017}
